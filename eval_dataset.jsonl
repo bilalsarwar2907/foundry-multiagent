@@ -1,0 +1,6 @@
+{"query": "Which companies were verified on the SIRI Fast-Track registry, and which ones were checked but not certified?", "ground_truth": "Databricks Denmark ApS and CSIS Security Group were verified against the SIRI Fast-Track registry. Systematic A/S and Vestas Wind Systems A/S were checked and were not listed as certified as of September 2026."}
+{"query": "What is the minimum salary (wage floor) required for Track 1 placements under SIRI Fast-Track compliance?", "ground_truth": "DKK 552,000 per year."}
+{"query": "What is the recruitment fee range for Track 1 onsite placements, and how is it paid?", "ground_truth": "18%-22% of the candidate's annualized base salary, paid 50% on contract sign and 50% on start date."}
+{"query": "What is the net margin and client rate for a DevOps Engineer under Track 2?", "ground_truth": "Client rate is EUR 6,200 per month, with a net margin of about 41.9% (EUR 2,600)."}
+{"query": "What happens if fewer than 2 pilot contracts are signed by Day 90?", "ground_truth": "The hard kill-switch is triggered and model expansion is paused."}
+{"query": "What is Nordic IT Consulting's total annual revenue for 2026?", "ground_truth": "This figure is not stated anywhere in the document. The correct answer is that the information is not available, not a fabricated number."}
